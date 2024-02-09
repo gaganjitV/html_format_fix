@@ -9,6 +9,19 @@ that and added a nav tag. Also the Images tag did not have an alt text which sho
 if a disable person is on the page. 
 
 ## Link to deployed page
+https://gaganjitv.github.io/html_format_fix/
 
+## Installation
 
-- 
+N/A
+
+## Usage
+
+N/A
+
+## Credits
+
+Gaganjit singh Virdi for fixing the format
+
+## License
+N/A

@@ -24,7 +24,7 @@ body {
     color: #d9dcd6;
 }
 
-/* Changed the div to nav 28-40 */
+/* Changed the div tag to nav since these css are being applied to a nav tag now in the html file */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -33,11 +33,12 @@ body {
     font-size: 20px;
     
 }
-
+/* Changed the div tag to nav */
 .header nav ul {
     list-style-type: none;
 }
 
+/* Changed the div tag to nav */
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
